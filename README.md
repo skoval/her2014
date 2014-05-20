@@ -21,7 +21,7 @@ __**Confirmed Panelists**__
 
 __**Questions for Panelists**__
 
-Please share your ideas for discussion topics on the issues page. We will do our best to include all of the suggestions. 
+Please share your ideas for discussion topics on the [issues page](https://github.com/skoval/her2014/issues). We will do our best to include all of the suggestions. 
 
 __**Organizers**__
 
