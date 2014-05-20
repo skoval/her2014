@@ -10,15 +10,18 @@ attendees to discuss the shortage of women in the R development community and wh
 
 The event will be held from **5:30 to 7pm on July 1 (Venue TBD)**. A distinguished panel of developers and statisticians will take questions from the
 audience on the topic of gender and statistical software development. The panel
-discussion will be followed by a social mixer. 
-
-**All conference attendees are welcome.**
+discussion will be followed by a social mixer. _All conference attendees are welcome._
 
 __**Confirmed Panelists**__
 
 * [Gabriela Queiroz](http://www.meetup.com/R-ladies/member/14534094/), Founder of R-ladies
-* [Karline Soetaert](http://www.nioz.nl/staff-detail?id=784400), Head of the Department of Ecosystem Studies, Royal Netherlands Institute of Sea Research and author of packages deSolve and FME
+* [Heather Turner](http://www.heatherturner.net), Statistical consultant and co-author of the [gnm and gslcca](http://www.heatherturner.net/r-packages.html) packages
+* [Karline Soetaert](http://www.nioz.nl/staff-detail?id=784400), Head of the Department of Ecosystem Studies, Royal Netherlands Institute of Sea Research and author of packages [deSolve](http://cran.r-project.org/web/packages/deSolve/index.html) and [FME](http://cran.r-project.org/web/packages/FME/index.html)
 * [Amelia Mcnamara](http://www.stat.ucla.edu/~amelia.mcnamara/), PhD candidate in Statistics, UCLA
+
+__**Questions for Panelists**__
+
+Please share your ideas for discussion topics on the issues page. We will do our best to include all of the suggestions. 
 
 __**Organizers**__
 
