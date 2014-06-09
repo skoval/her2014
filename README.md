@@ -29,3 +29,11 @@ If you have questions about the event or ideas for discussion topics, please con
 
 - Stephanie Kovalchik, skovalch@rand.org
 - Gabriela Queiroz, gabidequeiroz@gmail.com
+
+__**Sponsors**__
+
+We would like to thank our generous sponsors for their support of this event.
+
+![](http://www.revolutionanalytics.com/sites/all/themes/rva_theme/img/logo.png)
+
+![](http://upload.wikimedia.org/wikipedia/en/a/a2/Rand-logo.PNG)
