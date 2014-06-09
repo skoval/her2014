@@ -34,6 +34,6 @@ __**Sponsors**__
 
 We would like to thank our generous sponsors for their support of this event.
 
-![](http://www.revolutionanalytics.com/sites/all/themes/rva_theme/img/logo.png)
+![](http://www.revolutionanalytics.com/sites/all/themes/rva_theme/img/logo.png =200x)
 
-![](http://upload.wikimedia.org/wikipedia/en/a/a2/Rand-logo.PNG)
+![](http://upload.wikimedia.org/wikipedia/en/a/a2/Rand-logo.PNG =200x)
