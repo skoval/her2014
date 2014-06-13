@@ -8,8 +8,8 @@ __[At the R User Conference 2014](http://user2014.stat.ucla.edu), July 1 UCLA, L
 The "heR Panel Discussion and Mixer" will be an opportunity for useR!
 attendees to discuss the shortage of women in the R development community and whether gender makes a difference for software development. 
 
-The panel will be held from **7 to 7:45 pm on July 1 at the [Venice Meeting Room](http://maps.ucla.edu/campus/) at Carnasale Commons**. The panel will consist of a distinguished group of women developers and statisticians will take questions from the
-audience on the topic of gender and statistical software development. A social mixer will begin at 6:30 pm, before the panel, and will continue after the panel's conclusion. _All conference attendees are welcome._
+The panel will be held from **7 to 7:45 pm on July 1 at the [Venice Meeting Room](http://maps.ucla.edu/campus/) at Carnasale Commons**. The panel will include a distinguished group of women developers and statisticians who will take questions from the
+audience on the topic of gender and R development. A social mixer will begin at 6:30 pm, before the panel, and will continue after the panel's conclusion. _All conference attendees are welcome._
 
 __**Confirmed Panelists**__
 
