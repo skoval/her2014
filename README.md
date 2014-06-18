@@ -22,7 +22,7 @@ __**Questions for Panelists**__
 
 Please share your ideas for discussion topics on the [issues page](https://github.com/skoval/her2014/issues). We will do our best to include all of the suggestions. 
 
---**Social Program Note**__
+__**Social Program Note**__
 
 The social program is packed this year. This is great for R, but it has made it difficult for the event organizers to avoid some overlap on the program. On the night of July 1st, the LA R meetup is also hosting an event on UCLA's campus that will include networking opportunities and a panel on "R’s Place in the Production Environment". 
 This panel will begin at 7:30pm, so attendees who want to see the beginning of this presentation should make a note to leave the heR panel a few minutes before its conclusion. Further details about the meetup are available on the [conference website](http://user2014.stat.ucla.edu/#social).
