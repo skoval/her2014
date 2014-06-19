@@ -17,6 +17,7 @@ __**Confirmed Panelists**__
 * [Heather Turner](http://www.heatherturner.net), Statistical consultant and co-author of the [gnm and gslcca](http://www.heatherturner.net/r-packages.html) packages
 * [Karline Soetaert](http://www.nioz.nl/staff-detail?id=784400), Head of the Department of Ecosystem Studies, Royal Netherlands Institute of Sea Research and author of packages [deSolve](http://cran.r-project.org/web/packages/deSolve/index.html) and [FME](http://cran.r-project.org/web/packages/FME/index.html)
 * [Amelia Mcnamara](http://www.stat.ucla.edu/~amelia.mcnamara/), PhD candidate in Statistics, UCLA
+* [Vivian Shangxuan Zhang](https://www.linkedin.com/in/shangxuanzhang), CTO/Co-Founder of SupStat Inc, Founder of NYC Data Science Academy
 
 __**Questions for Panelists**__
 
