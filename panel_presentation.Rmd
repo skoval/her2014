@@ -1,0 +1,55 @@
+---
+title: "heR Panel Discussion"
+author: "Moderator: Stephanie A. Kovalchik"
+date: "July 1, 2014"
+output: ioslides_presentation
+---
+<style>
+.title-slide {
+     background-image: url(http://www.edii.uclm.es/~useR-2013/pics/useR-middle.png);
+     background-repeat: no-repeat; 
+     background-position: 50% 20%;
+     background-size: 3in;
+   }
+</style>
+
+## Thank You to Our Sponsors
+
+<div style='text-align: center;'>
+<img src="http://www.eoda.de/files/medien/RA_logo_hi-res.jpg" width="350px" height="120px" />
+</div>
+
+<br>
+
+<div style='text-align: center;'>
+<img src="http://upload.wikimedia.org/wikipedia/en/a/a2/Rand-logo.PNG" width="150px" height="150px" />
+</div>
+
+## Panelist Introductions
+
+* Gabriela Queiroz
+* Heather Turner
+* Karline Soetaert
+* Amelia Mcnamara
+* Vivian Zhang
+
+## Panel Outline
+
+**Questions**
+
+* Women's representation in R community
+* Causes of gender gap
+* Closing the gap
+* Envisioning a more gender balanced community
+* Audience questions
+
+## Women's Representation in R Community
+
+## Causes of R Community's Gender Gap
+
+## Closing the Gender Gap
+
+## Envisioning a More Gender-Balanced R Community
+
+## Open Question Period
+
