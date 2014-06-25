@@ -13,7 +13,7 @@ audience on the topic of gender and R development. A social mixer will begin at 
 
 __**Confirmed Panelists**__
 
-* [Gabriela Queiroz](http://www.meetup.com/R-ladies/member/14534094/), Founder of R-ladies
+* [Gabriela Queiroz](http://www.meetup.com/R-ladies/member/14534094/), Founder of R-ladies & Data Scientist at Alpine Data Labs
 * [Heather Turner](http://www.heatherturner.net), Statistical consultant and co-author of the [gnm and gslcca](http://www.heatherturner.net/r-packages.html) packages
 * [Karline Soetaert](http://www.nioz.nl/staff-detail?id=784400), Head of the Department of Ecosystem Studies, Royal Netherlands Institute of Sea Research and author of packages [deSolve](http://cran.r-project.org/web/packages/deSolve/index.html) and [FME](http://cran.r-project.org/web/packages/FME/index.html)
 * [Amelia Mcnamara](http://www.stat.ucla.edu/~amelia.mcnamara/), PhD candidate in Statistics, UCLA
@@ -28,7 +28,7 @@ __**Organizers**__
 If you have questions about the event or ideas for discussion topics, please contact the event organizers.
 
 - Stephanie Kovalchik, skovalch@rand.org
-- Gabriela Queiroz, gabidequeiroz@gmail.com
+- Gabriela Queiroz, gabkroz@gmail.com
 
 __**Social Program Note**__
 
