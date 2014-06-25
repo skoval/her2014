@@ -45,6 +45,12 @@ output: ioslides_presentation
 
 ## Women's Representation in R Community
 
+<div style='text-align: center;'>
+<img src="women_represent.pdf" width="450px" height="450px" />
+</div>
+
+Study Source: [github event page](https://github.com/skoval/her2014)
+
 ## Causes of R Community's Gender Gap
 
 ## Closing the Gender Gap
