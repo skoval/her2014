@@ -1,0 +1,183 @@
+---
+title: "heR Panel Discussion"
+author: "Moderator: Stephanie A. Kovalchik"
+date: "July 1, 2014"
+framework   : io2012       # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+---
+
+
+<style>
+.title-slide {
+     background-image: url(http://www.edii.uclm.es/~useR-2013/pics/useR-middle.png);
+     background-repeat: no-repeat; 
+     background-position: 50% 20%;
+     background-size: 3in;
+     background-color: #E3E4FA;
+   }
+
+.title-slide hgroup > h1, 
+.title-slide hgroup > h2 {
+  color:  #837E7C ;
+  }
+
+.slide hgroup > h1, 
+.slide hgroup > h2 {
+  color: #837E7C ;
+}
+
+.color-box {
+  margin-top: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  text-align: left;
+  padding: 5%;
+  background-color: #E3E4FA;
+  opacity: 0.8;
+  font-size: 150%;
+}
+
+</style>
+
+## Thank You to Our Sponsors
+
+<br>
+
+<div style='text-align: center;'>
+<img src="http://www.eoda.de/files/medien/RA_logo_hi-res.jpg" width="350px" height="120px" />
+</div>
+
+<br>
+
+<div style='text-align: center;'>
+<img src="http://upload.wikimedia.org/wikipedia/en/a/a2/Rand-logo.PNG" width="150px" height="150px" />
+</div>
+
+---
+
+<h2 style="color: #837E7C;">Panelist Introductions</h2>
+
+* Gabriela Queiroz
+* Heather Turner
+* Karline Soetaert
+* Amelia Mcnamara
+* Vivian Zhang
+
+---
+
+<div class="color-box" style="text-align:center;">
+  Why the "heR Panel"?
+</div>
+
+---
+
+<h2 style="color: #837E7C;"> R's Gender Gap </h2>
+
+<div style='text-align: center;'>
+<img src="women_represent.pdf" width="475px" height="475px" />
+</div>
+
+Gender Gap Study [Source Code](https://github.com/skoval/her2014)
+
+---
+
+<h2 style="color: #837E7C;">  Package Maintainers </h2>
+
+<div style='text-align: center;'>
+<img src="maintainers.png" width="475px" height="475px" />
+</div>
+
+**Contributed by Karline Soetaert**, [Source Code](https://github.com/skoval/her2014)
+
+---
+
+
+<div class="color-box">
+  As women R programmers we are an exception. How did we get here?
+</div>
+
+---
+
+<div class="color-box">
+  Why is there a higher percentage of women in statistical fields than the percentage active in the R community?
+</div>
+
+---
+
+<div class="color-box">
+  What do we love about R?
+</div>
+
+---
+
+<div class="color-box">
+  Are there challenges that come with being female <i>and</i> a statistical programmer? What are they?
+</div>
+
+---
+
+<div class="color-box">
+  Why aren't more women contributing R packages?
+</div>
+
+
+
+<div class="color-box">
+  Are barriers to development different than barriers to use?
+</div>
+
+---
+
+<div class="color-box">
+  Are we ever treated differently by other useRs for being female?
+</div>
+
+<div class="color-box">
+  How and in which occasions?
+</div>
+
+---
+
+
+<div class="color-box">
+  What could be done to increase the representation of women in the R community?
+</div>
+
+---
+
+<div class="color-box">
+  What could be done to encourage more women to contribute R packages?
+</div>
+
+<div class="color-box">
+  What efforts are underway?
+</div>
+
+---
+
+<div class="color-box">
+  Can we achieve greater gender equality by simply <i>leaning in</i> or is institutional change needed?
+</div>
+
+---
+
+<div class="color-box">
+  Do events focusing on women help or harm the gender gap?
+</div>
+
+---
+
+<div class="color-box">
+  What are the benefits of narrowing R's gender gap?
+</div>
+
+---
+
+
+<div class="color-box" style="text-align: center;">
+  Audience Questions
+</div>
