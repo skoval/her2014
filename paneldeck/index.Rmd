@@ -73,7 +73,7 @@ knit        : slidify::knit2slides
 <h2 style="color: #837E7C;"> R's Gender Gap </h2>
 
 <div style='text-align: center;'>
-<img src="women_represent.pdf" width="475px" height="475px" />
+<img src="women_represent.png" width="475px" height="475px" />
 </div>
 
 Gender Gap Study [Source Code](https://github.com/skoval/her2014)

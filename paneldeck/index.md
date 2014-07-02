@@ -24,11 +24,6 @@ knit        : slidify::knit2slides
   color:  #837E7C ;
   }
 
-.slide hgroup > h1, 
-.slide hgroup > h2 {
-  color: #837E7C ;
-}
-
 .color-box {
   margin-top: 10%;
   margin-left: auto;
@@ -43,7 +38,7 @@ knit        : slidify::knit2slides
 
 </style>
 
-## Thank You to Our Sponsors
+<h2 style="color: #837E7C;">Thank You to Our Sponsors</h2>
 
 <br>
 
@@ -78,7 +73,7 @@ knit        : slidify::knit2slides
 <h2 style="color: #837E7C;"> R's Gender Gap </h2>
 
 <div style='text-align: center;'>
-<img src="women_represent.pdf" width="475px" height="475px" />
+<img src="women_represent.png" width="475px" height="475px" />
 </div>
 
 Gender Gap Study [Source Code](https://github.com/skoval/her2014)
