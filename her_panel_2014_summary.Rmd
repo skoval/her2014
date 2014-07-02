@@ -1,13 +1,13 @@
 ---
 title: "A Conversation about R's Gender Gap: The useR! Her Panel"
-author: "Stephanie A. Kovalchik"
+author: "Stephanie A. Kovalchik, <skovalch@rand.org>"
 date: "July 2, 2014"
 output: html_document
 ---
 
 At this year's [useR! R Conference](http://user2014.stat.ucla.edu) at the the University of California's lovely Los Angeles campus, for the first time in the conference's history, an event was held focusing on the shortage of women in the R community. The **her panel** was organized by myself and Gabriela de Quieroz, founder of R-ladies, and included an impressive group of 5 female developers:
 
-<center><img src="https://github.com/skoval/her2014/blob/master/panel.png" alt="Her Panel 2014" style="width: 400px;"/></center>
+<center><img src="https://github.com/skoval/her2014/raw/master/panel.png" alt="Her Panel 2014" style="width: 400px;"/></center>
 
 * [Heather Turner](http://www.heatherturner.net), Statistical consultant and co-author of the [gnm and gslcca](http://www.heatherturner.net/r-packages.html) packages
 * [Karline Soetaert](http://www.nioz.nl/staff-detail?id=784400), Head of the Department of Ecosystem Studies, Royal Netherlands Institute of Sea Research and author of packages [deSolve](http://cran.r-project.org/web/packages/deSolve/index.html) and [FME](http://cran.r-project.org/web/packages/FME/index.html)
